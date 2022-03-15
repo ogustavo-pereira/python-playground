@@ -1,6 +1,17 @@
 # Python Playground
-![Python versão 3](https://img.shields.io/badge/python-3-blue.svg)
 
-Este é um repositório de conteúdos de exemplos de código em python.
-O formato deste repositório esta em uma order de #00 a #0X pasta de códigos simples a mais complexos.
-Cada pasta contem o código e o readme explicativo.
+> Este é um repositório de conteúdos com exemplos de código em python com explicações.
+
+## Estrutura
+
+O formato deste repositório esta ordenado por complexidade onde #00 é o mais simples e números seguintes aumenta a complexidade.
+
+Dentro da pasta contem os códigos e um readme explicativo.
+
+
+## Veja mais
+
+- [LearnBr | Python](https://github.com/learnbr/python)
+- [Python.org](https://www.python.org/)
+
+
